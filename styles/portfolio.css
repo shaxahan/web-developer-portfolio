@@ -47,6 +47,7 @@ header {
     url("../images/header_bg.png");
   background-repeat: no-repeat;
   background-position: top left, bottom right;
+  max-height: fit-content;
 }
 
 /* Nav styles */
@@ -85,8 +86,7 @@ nav ul a {
 }
 
 .banner-content {
-  width: 580px;
-  height: 580px;
+  max-width: 585px;
 }
 
 .banner-greetings {
