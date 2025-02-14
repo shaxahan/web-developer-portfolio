@@ -47,7 +47,6 @@ header {
     url("../images/header_bg.png");
   background-repeat: no-repeat;
   background-position: top left, bottom right;
-  max-height: fit-content;
 }
 
 /* Nav styles */
