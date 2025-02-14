@@ -47,6 +47,7 @@ header {
     url("../images/header_bg.png");
   background-repeat: no-repeat;
   background-position: top left, bottom right;
+  margin: 0 auto;
 }
 
 /* Nav styles */
@@ -109,7 +110,7 @@ nav ul a {
 .banner-profile-pic {
   width: 580px;
 }
-/* maint styles */
+/* main styles */
 main {
   max-width: 1140px;
   margin: 0 auto;
